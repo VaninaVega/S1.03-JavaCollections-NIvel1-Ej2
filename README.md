@@ -1,7 +1,7 @@
 # S1.03-JavaCollections-NIvel1-Ej2
 
 
-#Summary: exercise description
+# Summary: exercise description
 
 Create and populate a List<Integer>.
 
@@ -9,21 +9,21 @@ Create a second List<Integer> and insert the elements of the first list into the
 
 Use ListIterator objects to read the elements of the first list and insert them into the second list.
 
-#Technologies Used
+# Technologies Used
 
 java 22
 
-#Requirements
+# Requirements
 
 Programming language: Java 22
 
 Development environment: IntelliJ IDEA
 
-#How to run it
+# How to run it
 
 Clone the repository or download the zip file and run it in your favorite IDE.
 
-#Contribution
+# Contribution
 
 Contributions are welcome! Please follow these steps to contribute:
 
